@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+aiosqlite
+python-multipart
+httpx
+numpy
+faiss-cpu
+sentence-transformers
+torch
+ollama
+Pillow
+easyocr
+pytesseract
+openai-whisper
